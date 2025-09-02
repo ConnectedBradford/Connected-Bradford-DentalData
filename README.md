@@ -2,12 +2,12 @@
   <img align="left" alt="ConnectedBradford" width="55px" src="https://github.com/ShoreRob1/Images/blob/main/CB%20logo%201.png?raw=true" />
 </a>
 
-This is the Connected Bradford Death Certificates GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
+This is the Connected Bradford Dental Data  GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
 Repository last updated 02/08/2025
 
 # CB_FDM_Dental Data 
 
-Contains the scripts and documentation for Dental Data 
+Contains the scripts and documentation for Dental Data . This is a complete dataset recie=ved from the NHS Business Services Authority.
 
 The dataset has been fully anonymised, but can link to other FDM's.
 
