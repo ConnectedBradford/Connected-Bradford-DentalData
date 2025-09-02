@@ -13,11 +13,11 @@ The dataset has been fully anonymised, but can link to other FDM's.
 
 There is one FDM for Dental Data  . 
 
-CB_FDM_Dental Data  - build date 2025-09-02 - data up to 2024-09-01
+CB_FDM_Dental Data  - build date 2025-09-02 - data up to 2023-11-22 (starting from 2006-07-17) 
 
 
 # Dental Data 
-The Dental Data  FDM is made up of 1 source table (summarised below and data dictionaries linked) from routinely collected data for 7 Million individuals and their routinely collected clinical data. 
+The Dental Data  FDM is made up of 1 source table (summarised below and data dictionaries linked) from routinely collected data for 896 thousand  individuals and their routinely collected clinical data. 
 
 The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
 
