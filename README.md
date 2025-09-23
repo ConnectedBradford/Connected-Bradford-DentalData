@@ -27,7 +27,7 @@ person
 
 observation_period
 
-Data_Dictionary 
+For dental data please see https://www.nhsbsa.nhs.uk/activity-payment-and-pension-services/dental-activity-processing
 
 ### The source data tables are: 
 
