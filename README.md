@@ -27,7 +27,7 @@ person
 
 observation_period
 
-For dental data please see https://www.nhsbsa.nhs.uk/activity-payment-and-pension-services/dental-activity-processing
+For the dental data dictionary please see https://www.nhsbsa.nhs.uk/activity-payment-and-pension-services/dental-activity-processing. The FP17 specification details the data contained within the tbl_Dental_Data. 
 
 ### The source data tables are: 
 
